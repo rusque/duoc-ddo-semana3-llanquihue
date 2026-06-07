@@ -21,4 +21,4 @@ El proyecto se encuentra organizado modularmente en los siguientes paquetes y cl
 Para ejecutar este proyecto de forma local utilizando la terminal, sigue estos pasos:
 1. **Clonar el repositorio:**
    ```bash
-   git clone <ENLACE_DE_TU_REPOSITORIO_AQUÍ>
+   git clone <https://github.com/rusque/duoc-ddo-semana3-llanquihue.git>
